@@ -2,10 +2,6 @@ body {
     background-color:hsl(212, 45%, 89%);
     font-size: 15px;
     font-family: 'Bellefair', serif;
-    font-family: 'Catamaran', sans-serif;
-    font-family: 'Fraunces', serif;
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Open Sans', sans-serif;
     display: grid;
     grid-template-columns: 1fr;
     min-height: 100vh;
@@ -22,7 +18,7 @@ body {
   }
   .txt {
     color:hsl(218, 44%, 22%);
-    font-weight: 900;
+    font-weight: 800;
     font-size: 1.5rem;
     margin-top: 1em;
     text-align: center;
