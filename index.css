@@ -35,7 +35,7 @@ body {
   }
  
   
-  @media (min-width: 481px) and (max-width: 768px) {
+  @media (min-width: 480px) and (max-width: 768px) {
     /* Styles for devices with screen width between 481px and 768px */
     .cover {
       margin: 2em 1em 2em 1em;
