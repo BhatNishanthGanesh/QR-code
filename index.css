@@ -6,7 +6,7 @@ body {
     grid-template-columns: 1fr;
     min-height: 100vh;
     place-items: center;
-    overflow: none;
+  
   }
   .cover {
     display: flex;
