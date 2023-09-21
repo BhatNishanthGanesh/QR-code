@@ -15,7 +15,7 @@ body {
     justify-content: center;
     background-color: white;
     border-radius: 1em;
-    padding: 1rem;
+    padding: 1.5rem;
   }
   .txt {
     color:hsl(210, 10%, 16%);
