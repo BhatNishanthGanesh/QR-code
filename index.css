@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: rgb(213, 162, 162);
     border-radius: 1em;
     padding: 1rem;
   }
