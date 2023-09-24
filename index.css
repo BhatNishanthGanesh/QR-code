@@ -3,7 +3,7 @@ body {
     font-size: 15px;
     font-family: 'Bellefair', serif;
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1.1fr;
     min-height: 100vh;
     place-items: center;
   
