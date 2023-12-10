@@ -1,7 +1,7 @@
 body {
     background-color:hsl(212, 45%, 89%);
     font-size: 15px;
-    font-family: 'Bellefair', serif;
+    /* font-family: 'Bellefair', serif; */
     display: grid;
     grid-template-columns: 1.1fr;
     min-height: 100vh;
@@ -13,9 +13,9 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: rgb(213, 162, 162);
+    background-color: rgb(250, 250, 250);
     border-radius: 1em;
-    padding: 1.rem;
+    padding: 1.2rem;
   }
   .txt {
     color:hsl(214, 10%, 14%);
@@ -39,7 +39,7 @@ body {
   @media (min-width: 480px) and (max-width: 768px) {
     /* Styles for devices with screen width between 481px and 768px */
     .cover {
-      margin: 2em 1em 2em 1em;
+      margin: 1em;
     }
     .txt {
       font-size: 1.2rem;
